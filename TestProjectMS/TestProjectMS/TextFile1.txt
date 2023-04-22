@@ -1,0 +1,19 @@
+﻿1-  //tagname[@attribute='value']
+//input[@title='Search']
+//a[@aria-label='Gmail (opens a new tab)']
+
+2 -  //tagname[text()='text value']
+
+//a[text()='About']
+//a[text()='Best Sellers']
+
+3- (//a[text()='Customer Service'])[1] --- Location wise xpath 
+
+()
+90% xpath
+
+//a[text()='Today's Deals']
+contains - 
+
+4- //tagname[contains(text(),'serch text value')]
+//a[contains(text(),'Deals')]
