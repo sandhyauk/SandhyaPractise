@@ -17,3 +17,5 @@ contains -
 
 4- //tagname[contains(text(),'serch text value')]
 //a[contains(text(),'Deals')]
+
+
