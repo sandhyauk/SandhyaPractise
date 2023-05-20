@@ -44,7 +44,7 @@ namespace TestProjectMS
             Thread.Sleep(1000);
             driver.FindElement(By.Name("submit")).Click();
 
-            Thread.Sleep(6000);
+            Thread.Sleep(600);
             driver.Quit();
 
         }
